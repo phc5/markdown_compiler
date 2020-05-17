@@ -3,6 +3,9 @@ name = "markdown_compiler"
 version = "0.1.0"
 authors = ["Paul <paulhyunchong@gmail.com>"]
 edition = "2018"
+test = "Hello this is a test"
+description = "A markdown compiler."
+homepage = "https://github.com/phc5/markdown_compiler"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
